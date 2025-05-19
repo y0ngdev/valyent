@@ -4,8 +4,6 @@ build
 tmp
 
 # Secrets
-.env
-.env.local
 .env.production.local
 .env.development.local
 
@@ -23,3 +21,4 @@ yarn-error.log
 
 # Platform specific
 .DS_Store
+config.bat
